@@ -2,7 +2,7 @@
 
 - 💻 Développeuse web junior · Symfony, Angular, JavaScript, WordPress
 - 🔭 En ce moment, je travaille sur **un projet personnel**
-- 📚 Je travaille avec : **JavScript, Symfony, Java, WordPress **
+- 📚 Je travaille avec : **JavScript, Symfony, Java, WordPress**
 - 🎯 Objectif : construire des sites Internets simples, efficaces et accessibles
 - 📚 Disponible pour un **emploi / une alternance**
 - 🌍 Basée à **Bordeaux** · Français (natif), Anglais (B2)
