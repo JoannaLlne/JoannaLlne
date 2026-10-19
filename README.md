@@ -16,9 +16,9 @@
 
 <p align="center"><sub>BACK-END</sub></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
 </p>
 
