@@ -5,7 +5,7 @@
 - 📚 Je travaille avec : **JavScript, Symfony, Java, WordPress**
 - 🎯 Objectif : construire des sites Internets simples, efficaces et accessibles
 - 📚 Disponible pour un **emploi / une alternance**
-- 🌍 Basée à **Bordeaux** · Français (natif), Anglais (B2)
+- 🌍 Basée à **Bordeaux** · Français (natif), Anglais (C1)
 
 
  [LinkedIn](https://www.linkedin.com/in/joanna-lalanne/) · [Email](mailto:lalannejoanna@gmail.com)
